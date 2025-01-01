@@ -16,7 +16,7 @@ metadata:
 spec:
     type: service
     lifecycle: production
-    owner: idpadmins
+    owner: carlos.roberto.devops
     system: project-x
 
 ---
