@@ -4,7 +4,7 @@ metadata:
   name: idpadmins
   description: The infra business unit
 spec:
-  type: team
+  type: business-unit
   profile:
     displayName: Infrastructure
     email: infrastructure@example.com
